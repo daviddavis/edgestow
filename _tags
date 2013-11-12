@@ -1,0 +1,1 @@
+true:package(core),package(lwt),package(github),thread,annot,debugging
